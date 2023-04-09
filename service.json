@@ -1,12 +1,12 @@
 {
   "name": "NBTMedSeg",
-  "version": "0.0.1",
+  "version": "0.1.0",
   "keywords": [
-    "AI",
-    "segmentation"
+    "registration",
+    "longitudinal"
   ],
   "shortdesc": "NingboTech University AI Medical Segmentation Service",
-  "longdesc": "Given a source chest CT image(.nii.gz), auto generate a segmentation image from the source image",
+  "longdesc": "Given a source chest CT image, auto generate a segmentation image from the source image",
   "tags": [
     {
       "name": "Source",
