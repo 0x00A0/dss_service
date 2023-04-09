@@ -16,7 +16,7 @@
     },
     {
       "name": "Segmentation",
-      "type": "Segmentation",
+      "type": "OverlayImage",
       "hint": "The segmentation of the source image",
       "required": true
     }
