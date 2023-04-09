@@ -15,10 +15,10 @@
       "required": true
     },
     {
-      "name": "Result",
-      "type": "Segmentation",
+      "name": "Segmentation",
+      "type": "OverlayImage",
       "hint": "The segmentation of the source image",
-      "required": false
+      "required": true
     }
   ]
 }
