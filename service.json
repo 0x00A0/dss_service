@@ -13,12 +13,6 @@
       "type": "MainImage",
       "hint": "The anatomical image from which you want to warp the segmentation",
       "required": true
-    },
-    {
-      "name": "Segmentation",
-      "type": "OverlayImage",
-      "hint": "The segmentation of the source image",
-      "required": true
     }
   ]
 }
